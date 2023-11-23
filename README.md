@@ -13,8 +13,8 @@
 </a>
 
 # GitHub Stats :
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kan3103&show_icons=true&locale=en&layout=compact" alt="kan3103 Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kan3103&show_icons=true&locale=en&layout=compact" alt="kan3103 Top Languages" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=kan3103&show_icons=true&locale=en" alt="kan3103 Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kan3103&show_icons=true&locale=en" alt="kan3103 Stats" />
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=kan3103&" alt="kan3103 Streak Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kan3103&" alt="kan3103 Streak Stats" />
