@@ -1,4 +1,4 @@
-<h3>Lý Nguyên Khang HCMUT - Ho Chi Minh City University Of Technology </h3>
+<h3>Lý Nguyên Khang HCMUT - Ho Chi Minh City University Of Technology, VNUHCM </h3>
 
 # Social Media
 <a href="https://www.facebook.com/profile.php?id=100014332118038" target="_blank">
